@@ -1,0 +1,2 @@
+pyTelegramBotAPI==3.5.2
+virtualenv==15.1.0
